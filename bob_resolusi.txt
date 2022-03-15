@@ -1,0 +1,4 @@
+bob resolusi
+--belajar web
+--belajar git dan git hub
+--buat web aplikasi
